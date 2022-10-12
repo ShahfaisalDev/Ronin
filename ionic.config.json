@@ -1,0 +1,7 @@
+{
+  "name": "ronin",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
